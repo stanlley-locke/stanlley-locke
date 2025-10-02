@@ -6,16 +6,16 @@ I build production-grade web platforms, developer tooling, and embedded systems 
 ---
 
 ## Contact
-- Email: `your.email@example.com`  
-- Website / Portfolio: `https://your.site`  
-- LinkedIn: `https://linkedin.com/in/yourprofile`  
-- X / Twitter: `@yourhandle`
+- Email: `stanlleylocke@gmail.com`  
+- Website / Portfolio: `https://stanlleyhub.webnetcore.top`  
+- LinkedIn: `https://linkedin.com/in/stanlley-locke-6ba090380`  
+- X / Twitter: `Stanley Wasonga`
 
 ---
 
 ## Quick stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true&theme=default)  
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stanlley_locke&show_icons=true&count_private=true&theme=default)  
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stanlley_locke&layout=compact&theme=default)
 
 ---
 
@@ -39,22 +39,21 @@ I build production-grade web platforms, developer tooling, and embedded systems 
 
 ## Selected projects
 - **StanleyHub** — Learning platform with modular content, Socket.IO realtime, and SQLite backend.  
-  `https://github.com/USERNAME/stanleyhub` *(replace)*
+  `https://github.com/stanlley-locke/stanlleyhub` *(replace)*
 
 - **NeuralNetV2** — Custom neural-network training framework with GPU support and reproducible experiments.  
-  `https://github.com/USERNAME/neuralnetv2` *(replace)*
+  `https://github.com/stanlley-locke/neuralnetv2` *(replace)*
 
 - **Coinium** — Blockchain simulator and Telegram bot (wallets, transactions, mining demo).  
-  `https://github.com/USERNAME/coinium` *(replace)*
+  `https://github.com/stanlley-locke/coinium` *(replace)*
 
-- **Arduino Smart Hub** — Home automation demo: sensors + I²C LCD + motor control.  
-  `https://github.com/USERNAME/arduino-smart-hub` *(replace)*
+
 
 ---
 
 ## 🎥 Featured videos & channel
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/CHANNEL_ID?style=social)](https://www.youtube.com/channel/CHANNEL_ID)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@StanleyLocke?style=social)](https://www.youtube.com/channel/@StanleyLocke)
 
 <!-- YOUTUBE-START -->
 <!--
@@ -81,33 +80,3 @@ I build production-grade web platforms, developer tooling, and embedded systems 
 > **Title** — short description.
 > ```
 
----
-
-## How this README auto-updates (recommended)
-If you publish videos often, I recommend automating the YouTube block. The typical approach:
-1. Add the `<!-- YOUTUBE-START -->` / `<!-- YOUTUBE-END -->` markers (already present above).  
-2. Use a lightweight GitHub Action that fetches `https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID`, parses the latest N videos, and replaces the block.  
-3. The action commits the updated `README.md` back to the repo.
-
-This avoids the YouTube Data API and API keys (it uses the public RSS feed). If you want, I can provide the exact GitHub Action YAML and script — ready to drop into `.github/workflows/` and `scripts/`.
-
----
-
-## How to use this README — minimal checklist
-1. Create a repository named exactly like your GitHub username (case-sensitive).  
-2. Put this file in the repo root as `README.md`.  
-3. Replace these placeholders:
-   - `USERNAME` → your GitHub username (for stats images and project links).
-   - `CHANNEL_ID` → your YouTube channel ID (for the subscriber badge).
-   - `VIDEO_ID_1`, `VIDEO_ID_2`, `VIDEO_ID_3` → replace with actual video IDs (if doing manual).  
-   - Update email, website, and project links.
-4. Commit & push. GitHub will render it on your profile automatically.
-
-Example git commands:
-```bash
-git clone git@github.com:USERNAME/USERNAME.git
-cd USERNAME
-# create README.md (paste this file), then:
-git add README.md
-git commit -m "chore: add profile README with YouTube section"
-git push origin main

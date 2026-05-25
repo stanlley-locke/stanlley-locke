@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Stanlley%20Locke&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Systems%20Architect%20%C2%B7%20AI%20%26%20ML%20&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://vercel.app"/> <p align="center"> <img src="https://demolab.com" alt="Typing introduction" /> </p> <p align="center"> <a href="https://komarev.com"> <img src="https://komarev.com&label=Profile%20views&color=00FFFF&style=flat-square" alt="stanlley-locke's profile views" /> </a> </p> <img src="https://githubusercontent.com" alt="Banner" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=As%20Above%20So%20Below" alt="Typing introduction" />
